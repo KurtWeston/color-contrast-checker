@@ -20,7 +20,7 @@ CLI tool to check color contrast ratios for WCAG accessibility compliance
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/color-contrast-checker.git
+git clone https://github.com/KurtWeston/color-contrast-checker.git
 cd color-contrast-checker
 
 # Install dependencies
